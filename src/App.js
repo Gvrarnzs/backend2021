@@ -147,7 +147,7 @@ function App() {
       <Table>
       <thead>
         <tr>
-          <th>No</th>
+          <th>Nomor</th>
           <th>Nama</th>
           <th>Price</th>
           <th>Action</th>
